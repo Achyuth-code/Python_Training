@@ -1,0 +1,45 @@
+oprerators
+= : assignment
+== : equivalent 
++ : addition
+- : subtraction
+!= : Not Equals
+
+
+
+data types
+int = integers
+float = decimals
+string =characters
+list = mutable elements
+dict = key value pairs
+set = set pf unique elements
+tuple = immutable elements
+boolean = True or False
+
+types of variables
+global variable
+local variable
+
+
+
+function
+def
+
+
+class
+
+
+control statements
+if
+if.....else 
+if....elif.....else 
+while
+ for
+ else suite
+ break
+ continue
+ pass
+ assert
+ return
+ 
